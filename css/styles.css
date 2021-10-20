@@ -529,6 +529,7 @@ h2,
 
 #home .heading h2 {
 	color: #fff;
+
 	font-size: 50px;
 	margin-top: 20px;
 	margin-bottom: 40px;
@@ -925,10 +926,6 @@ object {
 
 }
 
-#localization {
-	text-align: center;
-
-}
 
 #aboutUs p,
 #aboutUs h2 {
@@ -974,11 +971,12 @@ object {
 /*------*/
 
 #localization {
-	background: #FE5801;
+	background: #b21236;
 	padding-top: 35px;
 	padding-bottom: 25px;
 	overflow: hidden;
 	color: #fff;
+	text-align: center;
 }
 
 #localization p,
