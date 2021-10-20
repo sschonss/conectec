@@ -26,6 +26,12 @@ body {
 	-o-transition: all 0.3s linear;
 }
 
+.texto {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+}
+
 ::selection {
 	color: #fff;
 	background: #;
@@ -385,8 +391,11 @@ h2,
 }
 
 .countdown {
+	padding-left: 20px;
+	padding-right: 10px;
 	text-align: center;
 	margin-top: 30px;
+
 
 }
 
@@ -446,7 +455,7 @@ h2,
 }
 
 .banner-container {
-	background: #043058;
+	background: #fe5801;
 	background-repeat: repeat;
 	height: 760px;
 	position: relative;
@@ -457,7 +466,7 @@ h2,
 .banner-container:after {
 	position: absolute;
 	content: '';
-	background: #00294e;
+	background: orangered;
 	height: 100%;
 	width: 100%;
 	top: 0;
@@ -977,7 +986,7 @@ object {
 /*------*/
 
 #localization {
-	background: #002648;
+	background: #FE5801;
 	padding-top: 35px;
 	padding-bottom: 25px;
 	overflow: hidden;
