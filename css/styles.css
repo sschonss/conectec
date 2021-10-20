@@ -397,6 +397,11 @@ h2,
 
 .idea {
 	text-align: center;
+
+}
+
+.idea p {
+	font-size: 20px;
 }
 
 h1 {
