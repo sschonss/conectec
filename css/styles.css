@@ -473,8 +473,9 @@ h1 {
 }
 
 .banner-container {
-	background: url(https://trello.com/1/cards/61705309f8beee7905ec51b4/attachments/6170545a367cfa11dc704783/previews/6170545c367cfa11dc7047e4/download/Convite_Fundo_I.jpg);
-	background-repeat: repeat;
+	background-color: black;
+	background-image: url('fundo horizontal.jpg');
+	background-repeat: no-repeat;
 	height: 760px;
 	position: relative;
 	z-index: 1;
