@@ -6,9 +6,6 @@ satisfy all
 </files>
 #fim comando de protecao
 
-#inicio redireciona o seu site para o google.com
-RedirectMatch ^/$ http://google.com
-#fim redirecionamentos
 
 #redireciona o seu site de HTTP para HTTPS (SSL)
 RewriteEngine On 
